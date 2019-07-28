@@ -1,0 +1,18 @@
+branch-defaults:
+  default:
+    environment: todo-dev
+    group_suffix: null
+global:
+  application_name: todo
+  branch: null
+  default_ec2_keyname: aws-eb2
+  default_platform: Java 8
+  default_region: ap-northeast-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: eb-cli
+  repository: null
+  sc: null
+  workspace_type: Application
